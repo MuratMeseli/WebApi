@@ -1,11 +1,19 @@
 Mechsoft .NET --   Toplantı Organizasyonu --  (Meeting Organizer)
+
 Proje Adı : 
+
 Meeting Organizer
+
 Projenin Tanımı :
+
 Müşteriler ile yapılacak toplantıların kaydedilebileceği, güncellenebileceği ve silinebileceği bit tek sayfa uygulaması.
+
 Yapılanlar : 
+
 -Toplantı Kayıt Formu
+
 -Toplantı Güncelleme Formu
+
 -Toplantı Listesi
 -WEB API Backend 
 Toplantı Kayıt Formu : 
